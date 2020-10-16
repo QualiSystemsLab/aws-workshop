@@ -10,7 +10,7 @@ inputs:
   - SANDBOX_ID
 
 module:
-  source: git::https://47629a0926325ce2f406ff8da6048c1a2e7dbbf3@github.com/QualiSystemsLab/POC-Appel.git//terraform/aws-document-db
+  source: git::https://github.com/QualiSystemsLab/aws-workshop.git//terraform/aws-document-db
 
 terraform_version: 0.11.11
 
